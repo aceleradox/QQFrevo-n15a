@@ -38,5 +38,7 @@ Ele realiza buscas inteligentes usando **DuckDuckGo**, filtra resultados relevan
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/qqfrevo-n15a.git
+git clone https://github.com/aceleradox/QQFrevo-n15a.git
 cd qqfrevo-n15a
+
+sempre novos pulls , branches e novos modelo dessa versao irao ser lançados
