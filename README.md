@@ -1,6 +1,7 @@
 # QQFrevo-n15a
 QQfrevo e um script em node JS. para encontrar paginas em varias rede social agora para achar frevos e baile funk em todos os lugar. e pancadoes automotivos 
-
+# ⚠ essa versao e demorada na hora de pesquisar ⚠
+normalmente essa versao e mais demorada ao clickar em **buscar** pode demorar alguns minutos e muito comum. pois essa versao usa varias pesquisas de varios sites. nao so do instagram.
 # QQfrevo n15a 🚀
 
 QQfrevo n15a é um **servidor de busca automatizada de eventos juvenis** em diversas categorias musicais e culturais (frevo, baile funk, automotivo, deboxe, eletrofunk, smurfs etc).  
