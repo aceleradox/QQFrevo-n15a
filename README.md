@@ -3,6 +3,8 @@ QQfrevo e um script em node JS. para encontrar paginas em varias rede social ago
 # ⚠ essa versao e demorada na hora de pesquisar ⚠
 normalmente essa versao e mais demorada ao clickar em **buscar** pode demorar alguns minutos e muito comum. pois essa versao usa varias pesquisas de varios sites. nao so do instagram.
 # QQfrevo n15a 🚀
+# DOWNLOAD DO APP EM ZIP
+https://github.com/aceleradox/QQFrevo-n15a/archive/refs/heads/main.zip
 
 QQfrevo n15a é um **servidor de busca automatizada de eventos juvenis** em diversas categorias musicais e culturais (frevo, baile funk, automotivo, deboxe, eletrofunk, smurfs etc).  
 Ele realiza buscas inteligentes usando **DuckDuckGo**, filtra resultados relevantes e exibe informações em uma interface web estilizada, com contagem animada de eventos.
